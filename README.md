@@ -1,5 +1,25 @@
 # Shared
-This repository holds our two divisions' shared work and datasets.
+<<<<<<< HEAD
+Shared work and datasets
+
+**Use Case #1**
+User:
+User input:
+System response:
+
+**Use Case #2**
+User:
+User input:
+System response:
+
+**Use Case #3**
+User:
+User input:
+System response:
+
+p-engel testing edits from branch p-engel
+
+This text was added by Brendan
 
 ### Overall use cases for Greening Seattle:
 
