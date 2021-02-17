@@ -24,7 +24,7 @@ Sarah finally is able to edit!
 ### Overall use cases for Greening Seattle:
 
   1. Compilation of traffic and fuel economy/census track data
-	*_User:_ Developers of GreeningSeattle software
-	*_Function:_ compile and clean data for predictions and visualizations
-	*_Results:_ return compatible data sets 
+	* _User:_ Developers of GreeningSeattle software
+	* _Function:_ compile and clean data for predictions and visualizations
+	* _Results:_ return compatible data sets 
 
