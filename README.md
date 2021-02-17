@@ -28,4 +28,3 @@ This text was added by Brendan
      * _Function:_ Intake traffic and ridership data and correlate to fuel economy/emissions data of region
      * _Results:_ Return potential emissions reduction of region 
 
-Working in my new branch! - Matthew
