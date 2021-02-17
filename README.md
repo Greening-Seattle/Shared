@@ -20,8 +20,6 @@ System response:
 p-engel testing edits from branch p-engel
 
 This text was added by Brendan
-=======
-This repository holds our two divisions' shared work and datasets.
 
 ### Overall use cases for Greening Seattle:
 
@@ -29,4 +27,3 @@ This repository holds our two divisions' shared work and datasets.
      * _User:_ Citizens, policy makers, environmental groups; provide region of interest
      * _Function:_ Intake traffic and ridership data and correlate to fuel economy/emissions data of region
      * _Results:_ Return potential emissions reduction of region 
->>>>>>> 3a8da0306398730c3691051c43556483dd792316
