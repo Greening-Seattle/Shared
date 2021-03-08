@@ -17,10 +17,7 @@ User:
 User input:
 System response:
 
-p-engel testing edits from branch p-engel
 
-This text was added by Brendan
-Sarah finally is able to edit!
 ### Overall use cases for Greening Seattle:
   1. Compilation of traffic and fuel economy/census tract data
 	* _User:_ Developers of GreeningSeattle software
