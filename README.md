@@ -10,7 +10,7 @@
 
 - The Greening Seattle Team workflow involves a feedback loop between both teams. Both visualization and prediction sub-groups partipated in gathering publically available data from the Seattle government. Then the data was cleaned with a focus on breaking out the dataset for a series of different input features including number of cars, number of bike lanes. This data was partitioned into subgroups by Census Tract, which are discrete geographic units. They are the smallest geographic measure collected by the US Census Bureau, which are the rough equivalent of a neighborhood.  
 
--The city of Seattle itself can be subdivided into 131 Census Tracts. For purposes of traffic visualization the census tract works for a convenient aggregate to visualize city-level trends. 
+- The city of Seattle itself can be subdivided into 131 Census Tracts. For purposes of traffic visualization the census tract works for a convenient aggregate to visualize city-level trends. 
 
 ### Overall use cases for Greening Seattle Shared Repository:
   1. Compilation of traffic and location based data, such as census tract data and street level data. 
