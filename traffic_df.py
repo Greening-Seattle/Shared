@@ -4,7 +4,6 @@ import geopandas as gpd
 import shapely
 from shapely.geometry import Point
 import numpy as np
-import urllib.request as request
 
 #Load in traffic data
 #List of traffic download URLs for 2007 - 2018
