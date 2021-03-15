@@ -36,10 +36,11 @@
 
 ### Important! Before using software, please check to make sure you have the following additional packages downloaded into your conda environment:
 
-- asdf
-- 	sdaf
-- 	asdf
-
+- GeoPandas (<conda install geopandas> or <pip install geopandas>)
+- AdjustText (<pip install adjusttext>)
+- Additional
+- Additional
+- Additional
 
 
 -More Information about individual use cases and each project can be found within Visualization and Prediction Repositiories for each individual team.
