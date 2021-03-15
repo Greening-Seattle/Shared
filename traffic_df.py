@@ -103,8 +103,6 @@ def traffic(year):
     return zip_traffic
 
 def total_traffic(years):
-  '''Appended list of traffic by zip code
-  '''
     df_total_traffic = pd.DataFrame()
     years = list(np.arange(7,19))
     for year in years:
