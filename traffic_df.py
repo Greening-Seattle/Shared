@@ -112,7 +112,14 @@ def total_traffic(years):
         df_total_traffic = df_total_traffic.append(traffic_year)
     return df_total_traffic
 
-total_df = total_traffic(years)
-total_traffic_df = total_df.copy()
-total_traffic_df.groupby(by='ZIPCODE')
-total_traffic_df.sort_values(['ZIPCODE','YEAR'],inplace=True)
+def final_df():
+    '''Ultimate function that returns total compiled traffic data frame by year and zip
+    '''
+    years = list(np.arange(7,19))
+    total_df = total_traffic(years)
+    total_traffic_df = total_df.copy()
+    total_traffic_df.groupby(by='ZIPCODE')
+    total_traffic_df.sort_values(['ZIPCODE','YEAR'],inplace=True)
+
+    return total_traffic_df
+    
