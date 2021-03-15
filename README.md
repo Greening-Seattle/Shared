@@ -29,7 +29,7 @@
 
 - get_geodata: Extracts Traffic Data for a specific user input year.
 
-- Traffic Data Download: Example Jupyter Notebook that extracts city of Seattle traffic data from geojson files.
+- traffic_df: Downloads traffic data from Seattle.gov and enables user to extract all traffic data organized by zip code and year, or just yearly aggregate traffic flow data.
 
 - GeoSegment_Partitioning: Example Jupyter Notebook that allows basic aggregation of traffic data by census track. 
 
