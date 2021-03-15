@@ -1,6 +1,6 @@
 # Greening Shared Repository:
 
-- This shared repository functions as a collaboration space for data cleaning for both UW Direct 21 Greening Seattle Teams. The first team is focused on predicting Seattle Traffic Trends, while the second is focused on Visualizing Seattle Traffic Trends, as well as outputs of a regression model seeking to predict future traffic patterns based on user inputs. 
+- This shared repository functions as a collaboration space for data cleaning for both UW Direct 21 Greening Seattle Teams. The first team is focused on predicting Seattle Traffic Trends, while the second is focused on Visualizing Seattle Traffic Trends, as well as outputs of a regression model seeking to predict future traffic patterns based on user inputs.
 
 - Local-level traffic data is provided for the city of Seattle, as well as by the Washington State Department of Transportation. These data can be found at: https://www.seattle.gov/transportation/document-library/reports-and-studies as well as https://www.wsdot.wa.gov/mapsdata/tools/trafficplanningtrends.htm for state level data.
 
@@ -34,6 +34,11 @@
 - GeoSegment_Partitioning: Example Jupyter Notebook that allows basic aggregation of traffic data by census track. 
 
 
+### Important! Before using software, please check to make sure you have the following additional packages downloaded into your conda environment:
+
+- asdf
+- 	sdaf
+- 	asdf
 
 
 
