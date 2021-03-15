@@ -36,8 +36,8 @@
 
 ### Important! Before using software, please check to make sure you have the following additional packages downloaded into your conda environment:
 
-- GeoPandas (<conda install geopandas> or <pip install geopandas>)
-- AdjustText (<pip install adjusttext>)
+- GeoPandas (conda install geopandas / pip install geopandas)
+- AdjustText (pip install adjusttext)
 - Additional
 - Additional
 - Additional
