@@ -122,4 +122,3 @@ def final_df():
     total_traffic_df.sort_values(['ZIPCODE','YEAR'],inplace=True)
 
     return total_traffic_df
-    
